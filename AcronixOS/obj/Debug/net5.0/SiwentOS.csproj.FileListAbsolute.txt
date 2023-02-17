@@ -1,0 +1,12 @@
+C:\Users\Жанна\Desktop\SiwentOS\SiwentOS\SiwentOS\bin\Debug\net5.0\SiwentOS.deps.json
+C:\Users\Жанна\Desktop\SiwentOS\SiwentOS\SiwentOS\bin\Debug\net5.0\SiwentOS.dll
+C:\Users\Жанна\Desktop\SiwentOS\SiwentOS\SiwentOS\bin\Debug\net5.0\ref\SiwentOS.dll
+C:\Users\Жанна\Desktop\SiwentOS\SiwentOS\SiwentOS\bin\Debug\net5.0\SiwentOS.pdb
+C:\Users\Жанна\Desktop\SiwentOS\SiwentOS\SiwentOS\obj\Debug\net5.0\SiwentOS.csproj.AssemblyReference.cache
+C:\Users\Жанна\Desktop\SiwentOS\SiwentOS\SiwentOS\obj\Debug\net5.0\SiwentOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Жанна\Desktop\SiwentOS\SiwentOS\SiwentOS\obj\Debug\net5.0\SiwentOS.AssemblyInfoInputs.cache
+C:\Users\Жанна\Desktop\SiwentOS\SiwentOS\SiwentOS\obj\Debug\net5.0\SiwentOS.AssemblyInfo.cs
+C:\Users\Жанна\Desktop\SiwentOS\SiwentOS\SiwentOS\obj\Debug\net5.0\SiwentOS.csproj.CoreCompileInputs.cache
+C:\Users\Жанна\Desktop\SiwentOS\SiwentOS\SiwentOS\obj\Debug\net5.0\SiwentOS.dll
+C:\Users\Жанна\Desktop\SiwentOS\SiwentOS\SiwentOS\obj\Debug\net5.0\ref\SiwentOS.dll
+C:\Users\Жанна\Desktop\SiwentOS\SiwentOS\SiwentOS\obj\Debug\net5.0\SiwentOS.pdb
