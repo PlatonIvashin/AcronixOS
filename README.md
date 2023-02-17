@@ -15,4 +15,4 @@ https://disk.yandex.ru/d/OGE6kbf36k0FCg
 
 ## Лицензия
 
-https://github.com/pie-with-jam/AcronixOS/blob/main/LICENSE.md
+[https://github.com/pie-with-jam/AcronixOS/blob/main/LICENSE.md](https://github.com/pie-with-jam/AcronixOS/blob/master/LICENSE.md)
