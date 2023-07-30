@@ -1,18 +1,18 @@
 # AcronixOS
 
-## Главная
+## Home
 
-Эта сборка вышла под видом ранней поддержки, поэтому эта ОС будет обновляться постепенно,
-за всеми подробностями обращаться в дискорд
+This build was released under the guise of early support, so this OS will be updated gradually,
+For all the details contact Discord
 
-## Установка
+## Installation
 
-1) Для установки вам потребуется приложение виртулизации (VMWARE/VirtualBox)
-2) Установите AcronixOS.iso как CD/DVD
-3) Выделите 64 Мб ОЗУ
-4) Установите файл диска (желательно .vdmk)
-5) Запускайте
+1) To install you will need a virtualization application (VMWARE/VirtualBox)
+2) Install AcronixOS.iso as CD/DVD
+3) Allocate 64 MB of RAM
+4) Install the disk file (preferably .vdmk)
+5) Run
 
-## Лицензия
+## License
 
 [https://github.com/pie-with-jam/AcronixOS/blob/main/LICENSE.md](https://github.com/pie-with-jam/AcronixOS/blob/master/LICENSE.md)
